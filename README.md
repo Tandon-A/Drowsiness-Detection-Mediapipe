@@ -32,6 +32,11 @@ During inference, first the features are calculated and are normalized. These fe
 
 We apply the idea of drowsiness detection to a virtual classroom / online MOOC platform setting. The WebApp shows a demo where the student is alerted when drowsy. The statistics obtained over the course can then help course content creators to improve their offerings. 
 
+<img src="https://github.com/Samradh007/sleeplessAcademy/blob/main/assets/LSTM.gif" width="720" alt="LSTM Model"> 
+
+###### Fig 5: Web Application Demo 
+
+
 ## Author
 
 [Abhishek Tandon](https://github.com/Tandon-A)
